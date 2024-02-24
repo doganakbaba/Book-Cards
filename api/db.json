@@ -1,0 +1,68 @@
+{
+    "books":[
+        { "id" :1,         
+         "content":"Jane Eyre is raised in her aunt's house after the death of her parents. Her aunt cannot stand the queer, quiet child and sends her off to a spartan boarding school where she is severely mistreated. She survives, however, and eventually finds herself a situation as a governess in the household of Edward Rochester. She and Rochester fall passionately in love, in one of the great literary love stories. But a dark secret in his house will tear them apart and send her alone into the wilderness before she can find her way back to him.", 
+         "title":"Jane Eyre",
+         "author":"Charlotte Brontë",
+         "category":"Literature"
+    },
+    {    "id" :2,        
+         "content":"Towering classic of dystopian satire, BRAVE NEW WORLD is a brilliant and terrifying vision of a soulless society--and of one man who discovers the human costs of mindless conformity. Hundreds of years in the future, the World Controllers have created an ideal civilization. Its members, shaped by genetic engineering and behavioral conditioning, are productive and content in roles they have been assigned at conception. Government-sanctioned drugs and recreational sex ensure that everyone is a happy, unquestioning consumer; messy emotions have been anesthetized and private attachments are considered obscene. Only Bernard Marx is discontented, developing an unnatural desire for solitude and a distaste for compulsory promiscuity. When he brings back a young man from one of the few remaining Savage Reservations, where the old unenlightened ways still continue, he unleashes a dramatic clash of cultures that will force him to consider whether freedom, dignity, and individuality are worth suffering for.",
+         "title":"Brave New World",
+         "author":"Aldous Huxley",
+         "category":"Science fiction"
+    },
+    {    "id" :3,       
+         "content":"The Adventures of Huckleberry Finn is a novel by American author Mark Twain, first published in the United Kingdom in December 1884 and in the United States in February 1885. The Adventures of Huckleberry Finn, which takes its place among the great American novels, is also considered Mark Twain's best work.", 
+         "title":"The Adventures of Huckleberry Finn",
+         "author":"Mark Twain",
+         "category":"Graded Readers"
+    },
+    {    "id" :4,        
+         "content":"In the puritanical Boston of the 17th Century, a woman gives birth after committing adultery. That woman, Hester Prynne, choses to create a new life for herself in the face of adversity rather than succumb to what is expected of her. She will not name the father. Her decision opens up the tension between religious life and the true grace of God, and between personal guilt, religious sin and legal guilt. The novel is prefaced by a 'real' account of the author finding notes on a case similar to Hestor's in a Custom House, from which he fashioned the story. The preface is to be read as fictional.", 
+         "title":"The Scarlet Letter",
+         "author":"Nathaniel Hawthorne",
+         "category":"Romance"
+    },
+    {    "id" :5,       
+         "content":"At its core, Pride and Prejudice tells the love story of Elizabeth Bennet and Mr. Darcy, both of whom have to overcome their biases in order to end up together. Throughout the novel, both characters learn to unlearn their pride and prejudice so that they can come to accept the other's goodness of character.", 
+         "title":"Pride and Prejudice",
+         "author":"Jane Austen",
+         "category":"Romantic Novel"
+    },
+    {    "id" :6,         
+         "content":"'Treasure Island' is the story of a twelve-year-old boy, Jim Hawkins, who finds a treasure map that belonged to a pirate, Captain Flint. Jim and his friends travel to a faraway island and meet ex-crew members of Captain Flint, who were also looking for the treasure and take Jim as a hostage.", 
+         "title":"Treasure Island",
+         "author":" Robert Louis Stevenson",
+         "category":"Fiction"
+    },
+    { 
+         "id" :7,         
+         "content":"Dive into the tragedy that many critics regard not only as Shakespeare's finest play, but also as one of the best literary works ever produced. Set in Denmark, Hamlet recounts the events that transpire after the King is murdered by his brother Claudius, who then marries his brother's widow. Prince Hamlet uncovers the true nature of his father's death and feigns madness to create a trap. A must-read for fans of classic literature.",
+         "title":"Hamlet",
+         "author":"William Shakespeare",
+         "category":"Tragedy"
+    },
+    { 
+         "id" :8,         
+         "content":"The orphan Tom Sawyer, raised by his aunt, is never out of trouble for long. A mischievous, charming boy (not to mention genius at escaping from trouble), Tom's adventures involve many unwitting bystanders. From one moment to the next, the boy could change into a pirate, or ship's captain - when he's not trying to win Becky Thatcher for a sweetheart, of course. Tom is also a friend of Twain's other beloved boy-hero, Huckleberry Finn.",
+         "title":"The Adventures of Tom Sawyer",
+         "author":"Mark Twain",
+        "category":"Fiction"
+    },
+    { 
+         "id" :9,         
+         "content":"Romeo and Juliet is one of Shakespeare's early tragedies. The two young title characters fall madly in love, but are the children of feuding houses whose hatred for each other works to a devastating end. The play was immensely popular in Shakespeare's lifetime and is the most enduring of his plays along with Hamlet. Romeo and Juliet is considered one of the archetypal love stories.",
+         "title":"Romeo and Juliet",
+         "author":"William Shakespeare",
+         "category":"Drama. Fiction"
+    },
+    { 
+         "id" :10,         
+         "content":"Macbeth is Shakespeare's shortest tragedy and one of his best-known plays. Often referred to as an archetypal tale, it warns against lust for power and the betrayal of friends. Shakespeare based the play loosely on a King Macbeth of Scotland. The play is traditionally considered 'cursed', and thus many actors refer to it as 'The Scottish Play' to avoid naming it.",
+         "title":"Macbeth",
+         "author":"William Shakespeare",
+         "category":"Fiction and Literature"
+    }
+    ]
+}
